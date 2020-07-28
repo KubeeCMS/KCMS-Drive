@@ -1,6 +1,6 @@
 {
   "name": "kubeecms/kcms-drive",
-  "type": "wordpress-muplugin",
+  "type": "wordpress-plugin",
   "license": "GNU",
   "description":
     "Fixes issues with home and site URL on multisite when using KCMS",
